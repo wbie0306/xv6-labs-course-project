@@ -25,4 +25,3 @@ barrier
 
 # Local WSL instance and installation archives used only for xv6 development.
 .wsl/
-.codex_tmp_*
